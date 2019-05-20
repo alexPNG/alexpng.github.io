@@ -1,0 +1,10 @@
+Package: com.alexpng.7days
+Name: 7Days - AntiRevoke
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Stop and prevent revokes.
+Maintainer: alex_PNG <gitalexpng@gmail.com>
+Author: 180
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 136
