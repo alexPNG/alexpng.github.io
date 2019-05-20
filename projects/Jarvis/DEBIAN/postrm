@@ -1,0 +1,26 @@
+#!/bin/bash
+cd /System/Library/Audio/UISounds/SiriBackup
+cp ./jbl_begin.caf /System/Library/Audio/UISounds/jbl_begin.caf
+cd /System/Library/Audio/UISounds/SiriBackup
+cp ./jbl_confirm.caf /System/Library/Audio/UISounds/jbl_confirm.caf
+cd /System/Library/Audio/UISounds
+sleep 3
+rmdir -R SiriBackup
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+echo “ ”
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+echo “ ”
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+echo “ ”
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+echo “ ”
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+echo “ ”
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+echo “ ”
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+echo “ ”
+echo “Reboot your device for the changes to take place! A respring won’t make it work.”
+
+exit 0
+

@@ -1,0 +1,11 @@
+Package: com.alexpng.jarvis
+Name: Jarvis
+Version: 1.0.0
+Section: Themes
+Maintainer: 
+Depends: 
+Architecture: iphoneos-arm
+Description: Set Jarvis as your new assistant.
+Author: alex_png
+Sponsor:
+

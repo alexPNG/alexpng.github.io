@@ -10,3 +10,17 @@ Section: Themes
 Description: Set Cardi B as your new assistant.
 Author: alex_png
 Name: Bodak Siri
+
+
+Package: com.alexpng.jarvis
+Version: 1.0.0
+Architecture: iphoneos-arm
+Filename: .debs/com.alexpng.jarvis_1.0.0_iphoneos-arm.deb
+Size: 769968
+MD5sum: ee25b63349c127af5cdad79f6040bf80
+SHA1: 46e6c1c5778d00b0b94959793ea094633623339f
+SHA256: b50ab0af026fb99a714142065ec2dcbd6f3f66e44a09542a615870623e87d19c
+Section: Themes
+Description: Set Jarvis as your new assistant.
+Author: alex_png
+Name: Jarvis
