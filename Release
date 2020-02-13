@@ -1,8 +1,8 @@
-Origin: alex_PNG Repo
-Label: alex_PNG Repo
+Origin: alex_png's Repo
+Label: alex_png Repo
 Suite: stable
 Version : 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: alex_PNG Cydia Repository!
+Description: alex_png's Cydia Repository!
