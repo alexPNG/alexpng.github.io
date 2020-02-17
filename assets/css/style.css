@@ -1,0 +1,412 @@
+@charset "utf-8";
+
+    body {
+	    background: linear-gradient(240deg, #1b1b1b, #000000, #1a1a1a, #000000, #1f1f1f, #2a2b2a, #000000, #1a1a1a, #000000, #1f1f1f, #1b1b1b, #000000, #2a2b2a);
+       background-size: 400% 400%;
+	    font-family: -apple-system, Sans-Serif;
+	    font-weight: bold;
+       color: #FFFFFF;
+	    -webkit-animation: gradient 15s ease infinite;
+	    animation: gradient 15s ease infinite;
+}
+
+  #topnavbar {
+      background: #101010;
+      position: relative;
+      overflow: hidden;
+      height: 145px;
+      margin-top: -35px;
+      margin-right: -25px;
+      margin-left: -25px;
+      margin-bottom: 15px;
+}
+
+  #bottomnavnar {
+      background: #101010;
+      position: relative;
+      overflow: hidden;
+      height: 115px;
+      margin-top: 35px;
+      margin-right: -25px;
+      margin-left: -25px;
+      margin-bottom: -25px;
+      font-family: -apple-system, Sans-Serif;
+      font-size: 30px;
+      font-weight: 700;
+      text-align: center;
+      filter: drop-shadow(6px 6px 6px #00000055);
+}
+
+    #cardbox {
+        width: 95%;
+        height: 95%;
+        background-color: rgba(72, 65, 65, 0.2);
+        position: flex;
+        top: 240px;
+        left: 20px;
+        right: 20px;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+        border-bottom-left-radius: 50px;
+        border-bottom-right-radius: 50px;
+        box-shadow: 0px 0px 100px 10px rgba(0,0,0,0.85);
+        margin-bottom: 200px;
+    }
+     
+div.row {
+  display: inline-block;
+}
+
+.zoom {
+  padding: 0px;
+  transition: transform .2s;
+  width: 125px;
+  height: 125px;
+}
+
+.zoom:hover {
+  padding: 5px;
+  transform: scale(1.2);
+}
+
+.hovershadow {
+  padding: 0px;
+  width: 70px;
+  height: 80px;
+  margin: 0 auto;
+  opacity: 1.0;
+  filter: alpha(opacity=0);
+}
+
+.hovershadow:hover {
+  opacity: 0.5;
+  padding: 0px;
+  filter: alpha(opacity=30);
+}
+
+.packages{
+	text-align: justify;
+   margin-left: 10px;
+}
+
+.packagebox {
+   background-color: rgba(23, 22, 22, 0.80);
+   position: flex;
+   border-top-left-radius: 50px;
+   border-top-right-radius: 50px;
+   border-bottom-left-radius: 50px;
+   border-bottom-right-radius: 50px;
+   width: 90%;
+   height: 90%;
+}
+
+a {
+	font-family: -apple-system, Sans-Serif;
+	font-weight: 500;
+	font-size: 40px;
+	margin-top: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+   color: white;
+   text-decoration: underline;
+   margin-top: 10px;
+}
+
+a:visited, a:link, a:hover, a:active {
+	font-family: -apple-system, Sans-Serif;
+	font-weight: 500;
+	font-size: 40px;
+	margin-top: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+   color: white;
+   text-decoration: underline;
+   margin-top: 10px;
+}
+
+hr.hr1{
+  border: 5px solid white;
+  width: 95%;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 7px 7px 7px 7px;
+}
+
+hr.hr2{
+  border: 5px solid white;
+  display: inline-block;
+  border-radius: 7px 7px 7px 7px;
+}
+
+hr.hr3{
+  border: 5px solid white;
+  width: 100px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  border-radius: 7px 7px 7px 7px;
+}
+
+h1{
+	font-size: 70px;
+    margin-bottom: -10px;
+}
+
+h2{
+	font-size: 60px;
+	margin-bottom: 0px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-top: 20px;
+}
+
+h3{
+	font-size: 45px;
+	margin-bottom: 0px;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+
+p{
+	font-family: -apple-system, Sans-Serif;
+	font-weight: 500;
+	font-size: 40px;
+	margin-top: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: 10px;
+}
+
+.pbreak {
+	font-family: -apple-system, Sans-Serif;
+	font-weight: bold;
+	font-size: 50px;
+   text-align: center;
+   margin-top: 0px;
+   margin-bottom: 20px;
+}
+
+.pbreak2 {
+	font-family: -apple-system, Sans-Serif;
+	font-weight: bold;
+	font-size: 100px;
+   text-align: center;
+   margin-top: -10px;
+   margin-bottom: 20px;
+}
+
+.imageleft {
+   margin-left: 20px;
+   margin-right: 20px;
+   box-shadow: 0px 0px 80px 8px rgba(0,0,0,0.85);
+}
+
+    #header {
+        background: url(../repoicon.png);
+        background-size: contain;
+        width: 170px;
+        height: 170px;
+        background-repeat: no-repeat;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        border-radius: 80px;
+        box-shadow: 0px 0px 100px 5px rgba(0,0,0,1);
+
+    }
+
+.headhov {
+
+}
+.headhov:hover {
+       animation:pulse 1s infinite;
+}
+
+    div#repotitle {
+        text-align: center;
+        font-size: 75px;
+        font-family: -apple-system, Sans-Serif;
+        font-weight: bold;
+        margin-top: 45px;
+        margin-bottom: 25px;
+        text-shadow: 0px 0px 30px #00000080;
+    }
+
+    div#repodesc {
+        text-align: center;
+        font-size: 45px;
+        font-family: -apple-system, Sans-Serif;
+        font-weight: normal;
+        margin-top: 25px;
+        margin-bottom: 45px;
+	    text-shadow: 0px 0px 30px #00000080;
+    }
+
+    div#clickto {
+        text-align: center;
+        font-size: 60px;
+        font-family: -apple-system, Sans-Serif;
+        font-weight: bold;
+        margin-top: 30px;
+        margin-bottom: 0px;
+        color: white;
+	     text-shadow: 0px 0px 30px #00000080;
+    }
+
+    div#supporticons {
+        display: flex;
+        align-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        width: 700px;
+        margin-top: 10px;
+    }
+
+    #supporticons div {
+        margin-right: 135px;
+    }
+
+    #supporticons div:last-child {
+        margin-right: auto !important;
+    }
+
+#filter {
+
+}
+
+    .filter {
+           filter: drop-shadow(6px 6px 8px #00000055);
+}
+    .filter2 {
+           filter: drop-shadow(0px 0px 50px #ffffff);
+}
+
+    .filterbox {
+  box-shadow: 0px 0px 80px 8px rgba(0,0,0,0.85);
+}
+
+.cydiablur {
+  position: relative;
+  display: flex;
+}
+
+.cydiablur::before {
+  content: "";
+  position: absolute;
+  width: 100px; height: 100px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 100px 8px rgba(210,149,106,0.85);
+  animation: pulse2 4s infinite;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.cydiablur-inside {
+  position: relative;
+}
+
+.sileoblur {
+  position: relative;
+  display: flex;
+}
+.sileoblur::before {
+  content: "";
+  position: absolute;
+  width: 100px; height: 100px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 100px 8px rgba(47,218,202,0.85);
+  animation: pulse2 4s infinite;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.sileoblur-inside {
+  position: relative;
+}
+
+.zebrablur {
+  position: relative;
+  display: flex;
+}
+.zebrablur::before {
+  content: "";
+  position: absolute;
+  width: 100px; height: 100px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 100px 8px rgba(255,255,255,0.85);
+  animation: pulse2 4s infinite;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.zebrablur-inside {
+  position: relative;
+}
+
+.installerblur {
+  position: relative;
+  display: flex
+}
+.installerblur::before {
+  content: "";
+  position: absolute;
+  width: 100px; height: 100px;
+  border-radius: 30px;
+  box-shadow: 0px 0px 100px 8px rgba(82,192,251,0.85);
+  animation: pulse2 4s infinite;
+  margin-left: 10px;
+  margin-right: 0px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.installerblur-inside {
+  position: relative;
+}
+
+    #caption {
+        text-align: center;
+        font-size: 35px;
+        font-family: -apple-system, Sans-Serif;
+        font-weight: bold;
+        color: white;
+        margin-top: 5px;
+}
+
+    #emailicon {
+        background: url("../emailicon.png");
+        height: 65px;
+        width: 75px;
+        background-size: contain;
+        background-repeat: no-repeat;
+}
+    #githubicon {
+        background: url("../githubicon.png");
+        height: 65px;
+        width: 75px;
+        background-size: contain;
+        background-repeat: no-repeat;
+}
+
+    #redditicon {
+        background: url("../redditicon.png");
+        height: 75px;
+        width: 85px;
+        background-size: contain;
+        background-repeat: no-repeat;
+}
+
+    #twittericon {
+        background: url("../twittericon.png");
+        height: 70px;
+        width: 80px;
+        background-size: contain;
+        background-repeat: no-repeat;
+}
