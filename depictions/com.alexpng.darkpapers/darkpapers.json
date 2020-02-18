@@ -1,111 +1,143 @@
 {
-    "headerImage": "",
-    "tabs": [
+  "minVersion": "0.1",
+  "headerImage": "https://alexpng.github.io/depictions/assets/banner.png",
+  "tintColor": "#0f0f0f",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
         {
-            "class": "DepictionStackView",
-            "views": [
-                {
-                    "useBoldText": true,
-                    "class": "DepictionSubheaderView",
-                    "title": "DarkPapers",
-                    "useBottomMargin": false
-                },
-                {
-                    "markdown": "If you're seeing this, I forgot to add a description...",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionScreenshotsView",
-                    "itemSize": "{160, 275.41333333333336}",
-                    "screenshots": [
-                        {
-                            "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/gifs/teaser.gif",
-                            "accessibilityText": "Screenshot0"
-                        },
-                        {
-                            "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/1.png",
-                            "accessibilityText": "Screenshot1"
-                        },
-                        {
-                            "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/2.png",
-                            "accessibilityText": "Screenshot2"
-                        },
-                        {
-                            "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/3.png",
-                            "accessibilityText": "Screenshot3"
-                        },
-                        {
-                            "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/4.png",
-                            "accessibilityText": "Screenshot4"
-                        },
-                        {
-                            "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/5.png",
-                            "accessibilityText": "Screenshot5"
-
-                    ],
-                    "itemCornerRadius": 6
-                },
-                {
-                    "useBoldText": true,
-                    "class": "DepictionMarkdownView",
-                    "markdown": "This is a simple package tweak that adds over 50 day and night wallpapers to the stock iOS 13 dark mode (appearance aware) wallpapers. Some are OLED friendly and are in Full HD.
-
-There’s a script included in this tweak that you can find in /Documents titled as DarkPapersScript. Inside the script folder you’ll find a tutorial on how to manually add your own day and night wallpapers to this package, in case you want to add your own custom wallpapers.
-
-This tweak packages depends on WallpaperLoader in order to work. You can find the tweak in Skittyblock’s repository at:
-https://skitty.xyz
-
-All wallpapers included in this package are free to use. I do not own any rights above them and the credit goes to the original creators. The only changes made to these wallpapers by me were to tweak the darkness/color in some of them and to modify their original size.
-
-Compatibility:
-Compatible with iOS 13 or later. Not compatible with iPad devices.
-
-Known Issues:
-When previewing the wallpapers in the native settings app, the wallpapers may sometimes appear zoomed in but they won’t be zoomed in once you apply the wallpaper. A way to trigger this bug is to enable/disable the native dark mode when previewing the wallpapers.",
-                    "title": "markdown-description",
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Version",
-                    "text": "1.0"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Released",
-                    "text": "13/02/2020"
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Price",
-                    "text": "Free"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                },
-                {
-                    "class": "DepictionTableTextView",
-                    "title": "Developer",
-                    "text": "alex_png"
-                },
-                {
-                    "class": "DepictionSpacerView",
-                    "spacing": 8
-                }
-            ],
-            "tabname": "Details"
+          "title": "DarkPapers",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/gifs/teaser.gif",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/gifs/teaser.gif"
+            },
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/1.png",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/2.png",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/3.png",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/4.png",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/5.png",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/6.png",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/6.png"
+            },
+            {
+              "accessibilityText": "DarkPapers",
+              "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/7.png",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/7.png"
+            }
+          ],
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "DarkPapers is a tweak that adds over 50 OLED friendly and Full HD day/night wallpapers into the iOS 13 native dark mode wallpaper cycle (apperance aware). This tweak also comes with an app to let you manually add your own custom day/night wallpapers for you to use. No setting up is required, simply install the tweak and go to the wallpaper section in the settings app and look in the still wallpapers to see your new dark mode compatible wallpapers. Or, alternatively, go to the DarkPapers app to use your own custom wallpapers. This package depends on WallpaperLoader in order to work, which you can get in the repository: skitty.xyz \n\nAll wallpapers included in this package are free to use. I do not own any rights above them and the credit goes to the original creators. The only changes made to these wallpapers by me were to tweak the darkness/color in some of them and to modify their original size. \n\nThis tweak is compatible with iOS 13 and above. The wallpapers included in the tweak are NOT optimized for iPads, only for iPhones. The DarkPapers app is compatible with iPads, so you can upload your own custom day/night wallpapers, but not use the ones that come with this tweak, due to their sizing.\n\nThere's a harmless bug that when you preview one of the custom day/night wallpapers and if you enable/disable dark mode while previewing the wallpaper, it will zoom in on the wallpaper, but you can still select it, as it won't be zoomed in once applied, it only appears so in the preview. To fix it, simply stop previwing the wallpaper and then preview it again. \n\nCheck the source code for this tweak in my main repository, or visit my GitHub page. \n\nSpecial thanks to skitty for the guide on how to add custom wallpapers into WallpaperLoader, and to MichaelMKenny for the awesome proof of concept app.\n\n",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "18/02/20",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Tweak Repository",
+          "action": "https://alexpng.github.io",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "title": "Developer",
+          "text": "alex_png",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "mailto:alex.png.cc@gmail.com",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "URL": "https://alexpng.github.io/depictions/com.alexpng.darkpapers/sileoicon2.png",
+          "width": 30,
+          "height": 30,
+          "alignment": 1,
+          "corenerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
         }
-    ],
-    "class": "DepictionTabView",
-    "tintColor": "#191D29",
-    "minVersion": "0.1"
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "Version 1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "Initial Release.",
+            "useSpacing": false, 
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 18/02/20</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class":"DepictionTabView"
 }
