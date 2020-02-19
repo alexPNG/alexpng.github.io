@@ -1,0 +1,110 @@
+In this tutorial you’ll find a step by step guide on how to use the DarkPapersScript to manually add your own customized Light/Dark wallpapers to be used with WallpaperLoader in the native iOS 13.
+
+
+
+REQUIREMENTS:
+
+- A Light version of the wallpaper;
+- A Dark version of the wallpaper;
+- A Thumbnail of both;
+
+
+
+SIZING:
+
+You’ll need to have the following sizes in each version of the wallpaper in order for it to work: 
+
+> iPhone:
+ - Light version: 1861px x 3308px
+ - Dark version: 1861px x 3308px
+ - Thumbnail version: 214px x 380px
+
+If the sizes are a bit larger or smaller it’s fine. But for a better resolution and to avoid issues, try to keep their sizes as the ones stated above. 
+
+ALL FILES MUST BE IN .JPEG FORMAT
+
+(In case you don’t want to convert them to .jpeg you’ll need to change the values in Wallpaper.plist and replace .jpeg with the extension you want to use. If your files are in the .jpeg format, don’t mess with the Wallpaper.plist file)
+
+
+
+EXAMPLE:
+
+In the Examples folder you’ll find 3 wallpaper versions: the light version, the dark version and the thumbnail version.
+
+Feel free to use them as a way to get the sizing correct and to see what the THUMBNAIL version is supposed to look like.
+
+
+
+STEP 1:
+
+Place your Light version of the wallpaper inside the “Light” folder.
+
+Place your Dark version of the wallpaper inside the “Dark” folder.
+
+Place your Thumbnail version of the wallpaper inside the “Thumbnail” folder.
+
+
+
+STEP 2:
+
+Rename the folder “RenameThisFolder.CWDP” to whatever you want to call your custom wallpaper BUT KEEP THE “.CWDP” AT THE END OF THE FOLDER NAME. Otherwise the script won’t work.
+
+For example, if you want to call it “MyWallpaper” rename the folder to “MyWallpaper.CWDP”.
+
+
+
+STEP 3:
+
+Run the script called DarkPapersScript.sh by tapping on it and choosing yes when the prompt appears.
+
+
+
+STEP 4:
+
+Your custom day/night wallpaper is now ready for you to use. You DON’T need to Respring for the changes to take effect.
+
+Head over to the Settings app and in the Wallpaper section you’ll find your day/night wallpaper in the Static wallpapers. 
+
+Select your wallpaper and toggle on and off the iOS 13 Dark Mode to make sure its working.
+
+You’re done. 
+
+In case of errors or if it isn’t working, check the troubleshoot guide below.
+
+
+
+———————————————————————————————————————
+
+
+
+TROUBLESHOOTING
+
+In case of errors, make sure all the below lines were followed correctly: 
+
+- Make sure you’ve placed the wallpapers in the correct folder.
+
+- Make sure the wallpapers are in the correct sizing or approximate to it.
+
+- Make sure the Thumbnail version is identical to the thumbnail in the Examples folder.
+
+- Make sure you’ve renamed the “RenameThisFolder.CWDP” folder while keeping the “.CWDP” at the end of the name.
+
+- Make sure you didn’t rename the “RenameThisFolder.CWDP” to an existing name of a previous folder you’ve renamed when creating your custom wallpaper.
+
+- You can manually delete your custom wallpapers by going to /Library/WallpaperLoader/DarkPapersCustom where you’ll find all folders of your custom wallpapers.
+
+- Alternatively you can also delete all custom wallpapers by executing the script “z-DeleteAll.sh” which will delete ALL CUSTOM WALLPAPERS you’ve made that are inside /Library/WallpaperLoader/DarkPapersCustom
+
+- When you uninstall the tweak DarkPapers or WallpaperLoader, all your custom wallpapers will be deleted too. 
+
+- In case you’ve messed with the script files or with any of the other files that you shouldn’t have, you can reinstall DarkPapers to get them back, but it will delete all your custom wallpapers in the process, so make a copy of them if you want to before reinstalling the tweak.
+
+- Alternatively you can contact me to request any of the files and I’ll reply once I am available.
+
+- iPads aren’t currently supported but feel free to manually add your custom wallpapers with the correct sizing for your iPad. A variant of this tweak for iPads might come out soon.
+
+E-mail: alex.png.cc@gmail.com
+GitHub: github.com/alexPNG
+Reddit: alex_png
+Twitter: its_alex_png
+Discord:
