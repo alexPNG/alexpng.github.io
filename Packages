@@ -11,6 +11,9 @@ MD5sum: 8eaaa0210de0c1948c1fa6e4daa06f1a
 SHA1: e7953804df35fbf4e5cf821c71682f7c002570d0
 SHA256: 8e785da952a989c0eea37966f07311dd008ce3994f68c5e969b04c5db7276fc4
 Section: Utilities
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/
+Icon: file:///Applications/DarkPapers.app/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/darkpapers.json
 Description: Day/Night wallpapers your way in the native iOS 13 dark mode. Comes with over 50 OLED friendly and Full HD wallpapers that work with the native appearance aware feature. No settings required, simply install and select from the wallpaper section in the settings app. This package includes an app for you to add your own custom day/night wallpapers.
 Author: alex_png <alex.png.cc@gmail.com>
 Name: DarkPapers
