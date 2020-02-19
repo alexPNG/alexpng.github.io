@@ -7,7 +7,7 @@ Maintainer: alex_png <alex.png.cc@gmail.com>
 Author: alex_png <alex.png.cc@gmail.com>
 Homepage: https://alexpng.github.io/
 Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/
-Icon: file:///Applications/DarkPapers.app/DebIcon.png
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpapers/DebIcon.png
 SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/darkpapers.json
 Section: Utilities
 Version: 1.0
