@@ -1,0 +1,18 @@
+Package: com.alexpng.darkpapers
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: firmware (>= 13.0), mobilesubstrate, wallpaperloader
+Filename: ./debs/com.alexpng.darkpapers_1.0.0_iphoneos-arm.deb
+Size: 233312740
+MD5sum: d1a750e9b695db3fecb62e11a53e9a28
+SHA1: 0e936ed8b572e393b955e996119cf0c0ef213ad9
+SHA256: f7077805fb4ffaaefc0a38f75c363cae24c3bca1a76d63adc9ca7f942843c735
+Section: Wallpaper
+Description: Day/Night wallpapers your way in the native iOS 13 dark mode. Comes with over 50 OLED friendly and Full HD wallpapers that work with the native appearance aware feature. No settings required, simply install and select from the wallpaper section in the settings app. Alternatively, use WallpaperLoader preferences in the settings app to use your own custom day/night wallpapers.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpapers/DebIcon.png
+Name: DarkPapers
+Sileodepiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/darkpapers.json
+
