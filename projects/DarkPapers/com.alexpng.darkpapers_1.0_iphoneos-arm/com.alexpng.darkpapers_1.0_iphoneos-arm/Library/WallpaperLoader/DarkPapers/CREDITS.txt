@@ -1,7 +1,0 @@
-Special thanks to skittyblock for the awesome guide on how to manually add day/night wallpapers with his tweak WallpaperLoader. 
-
-Credits and rights of WallpaperLoader and its functionality go to him.
-
-Check out his open source code:
-
-https://github.com/Skittyblock/WallpaperLoader

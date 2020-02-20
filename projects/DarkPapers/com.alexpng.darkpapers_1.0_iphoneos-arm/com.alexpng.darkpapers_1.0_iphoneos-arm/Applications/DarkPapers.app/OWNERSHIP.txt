@@ -1,7 +1,0 @@
-Special thanks to MichaelMKenny for the awesome proof of concept app.
-
-Credits and rights go to him.
-
-Check out his open source code:
-
-https://github.com/MichaelMKenny/ios-13-light-dark-wallpaper-app

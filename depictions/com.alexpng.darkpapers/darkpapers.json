@@ -60,7 +60,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "DarkPapers is a tweak that adds over 50 OLED friendly and Full HD day/night wallpapers into the iOS 13 native dark mode wallpaper cycle (apperance aware). This tweak also comes with an app to let you manually add your own custom day/night wallpapers for you to use. No setting up is required, simply install the tweak and go to the wallpaper section in the settings app and look in the still wallpapers to see your new dark mode compatible wallpapers. Or, alternatively, go to the DarkPapers app to use your own custom wallpapers. This package depends on WallpaperLoader in order to work, which you can get in the repository of skittyblock. \n\nAll wallpapers included in this package are free to use. I do not own any rights above them and the credit goes to the original creators. The only changes made to these wallpapers by me were to tweak the darkness/color in some of them and to modify their original size. \n\nThis tweak is compatible with iOS 13 and above. The wallpapers included in the tweak are NOT optimized for iPads, only for iPhones. The DarkPapers app is compatible with iPads, so you can upload your own custom day/night wallpapers, but not use the ones that come with this tweak, due to their sizing.\n\nThere's a harmless bug that when you preview one of the custom day/night wallpapers and if you enable/disable dark mode while previewing the wallpaper, it will zoom in on the wallpaper, but you can still select it, as it won't be zoomed in once applied, it only appears so in the preview. To fix it, simply stop previwing the wallpaper and then preview it again. \n\nCheck the source code for this tweak in my main repository, or visit my GitHub page. \n\nSpecial thanks to skitty for the guide on how to add custom wallpapers into WallpaperLoader, and to MichaelMKenny for the awesome proof of concept app.\n\n",
+          "markdown": "DarkPapers is a tweak that adds over 50 OLED friendly and Full HD day/night wallpapers (and with more coming in future updates) into the iOS 13 native dark mode wallpaper cycle (apperance aware). No setting up is required, simply install the tweak and go to the wallpaper section in the settings app and look in the still wallpapers to see your new dark mode compatible wallpapers. Or, alternatively, use WallpaperLoader to set your own custom wallpapers. This package depends on WallpaperLoader and WallpaperLoader Prefs in order to work, which you can get in the repository of Skittyblock at skitty.xyz/repo. \n\nAll wallpapers included in this package are free to use. I do not own any rights above them and the credit goes to the original creators. The only changes made to these wallpapers by me were to tweak the darkness/color in some of them and to modify their original size. \n\nThis package is compatible with iOS 13 and above. The wallpapers included in the tweak are NOT optimized for iPads, only for iPhones. iPad users can use the WallpaperLoader Prefs that comes linked as a dependency in order to use their own custom wallpapers, or wait until the next update that adds iPad compatibility.\n\nThere's a harmless bug that when you preview one of the custom day/night wallpapers and if you enable/disable dark mode while previewing the wallpaper, it will zoom in on the wallpaper, but you can still select it, as it won't be zoomed in once applied, it only appears so in the preview. To fix it, simply stop previwing the wallpaper and then preview it again. \n\nSpecial thanks to Skittyblock for the guide on how to add custom wallpapers into WallpaperLoader.\n\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -73,12 +73,12 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.0.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Released",
-          "text": "18/02/20",
+          "text": "20/02/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -120,7 +120,7 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 1.0",
+          "title": "Version 1.0.0",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
@@ -131,7 +131,7 @@
             "class": "DepictionMarkdownView"
         },
         {
-            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 18/02/20</small>",
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20/02/2020</small>",
             "useRawFormat": true,
             "class": "DepictionMarkdownView"
         }

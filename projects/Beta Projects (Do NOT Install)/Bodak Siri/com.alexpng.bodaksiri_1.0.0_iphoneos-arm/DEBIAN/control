@@ -1,0 +1,11 @@
+Package: com.alexpng.bodaksiri
+Name: Bodak Siri
+Version: 1.0.0
+Section: Themes
+Maintainer: 
+Depends: 
+Architecture: iphoneos-arm
+Description: Set Cardi B as your new assistant.
+Author: alex_png
+Sponsor:
+
