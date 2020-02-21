@@ -60,7 +60,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don't want the all-in-one package. \n\nDarkPapers is a tweak that adds over 50 OLED friendly and Full HD day/night wallpapers (and with more coming in future updates) into the iOS 13 native dark mode wallpaper cycle (apperance aware). No setting up is required, simply install the tweak and go to the wallpaper section in the settings app and look in the still wallpapers to see your new dark mode compatible wallpapers. Or, alternatively, download WallpaperLoader Prefs to set your own custom wallpapers, which is a different tweak from WallpaperLoader. This package depends on WallpaperLoader in order to work, which you can get in the repository of Skittyblock at skitty.xyz/repo. \n\nAll wallpapers included in this package are free to use. I do not own any rights above them and the credit goes to the original creators. The only changes made to these wallpapers by me were to tweak the darkness/color in some of them and to modify their original size. \n\nThis package is compatible with iOS 13 and above. The wallpapers included in the tweak are NOT optimized for iPads, only for iPhones. iPad users can use the WallpaperLoader Prefs that comes linked as a dependency in order to use their own custom wallpapers, or wait until the next update that adds iPad compatibility.\n\nThere's a harmless bug that when you preview one of the custom day/night wallpapers and if you enable/disable dark mode while previewing the wallpaper, it will zoom in on the wallpaper, but you can still select it, as it won't be zoomed in once applied, it only appears so in the preview. To fix it, simply stop previwing the wallpaper and then preview it again. \n\nSpecial thanks to Skittyblock for the guide on how to add custom wallpapers into WallpaperLoader.\n\n",
+          "markdown": "This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don't want the all-in-one package. \n\nDarkPapers is a tweak that adds over 50 OLED friendly and Full HD day/night wallpapers (and with more coming in future updates) into the iOS 13 native dark mode wallpaper cycle (apperance aware). No setting up is required, simply install the tweak and go to the wallpaper section in the settings app and look in the still wallpapers to see your new dark mode compatible wallpapers. Or, alternatively, download WallpaperLoader Prefs to set your own custom wallpapers, which is a different tweak from WallpaperLoader. \n\nThis pack includes the wallpapers: Catalina 3, Landscape 1, Landscape 2, Minimalist 1, Minimalist 2, Minimalist 3 and Minimalist 4. Check the screenshots to see. \n\nThis package depends on WallpaperLoader in order to work, which you can get in the repository of Skittyblock at skitty.xyz/repo. \n\nAll wallpapers included in this package are free to use. I do not own any rights above them and the credit goes to the original creators. The only changes made to these wallpapers by me were to tweak the darkness/color in some of them and to modify their original size. \n\nThis package is compatible with iOS 13 and above. The wallpapers included in the tweak are NOT optimized for iPads, only for iPhones. iPad users can use the WallpaperLoader Prefs that comes linked as a dependency in order to use their own custom wallpapers, or wait until the next update that adds iPad compatibility.\n\nThere's a harmless bug that when you preview one of the custom day/night wallpapers and if you enable/disable dark mode while previewing the wallpaper, it will zoom in on the wallpaper, but you can still select it, as it won't be zoomed in once applied, it only appears so in the preview. To fix it, simply stop previwing the wallpaper and then preview it again. \n\nSpecial thanks to Skittyblock for the guide on how to add custom wallpapers into WallpaperLoader.\n\n",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -78,7 +78,7 @@
         },
         {
           "title": "Released",
-          "text": "20/02/2020",
+          "text": "21/02/2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -131,7 +131,7 @@
             "class": "DepictionMarkdownView"
         },
         {
-            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 20/02/2020</small>",
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 21/02/2020</small>",
             "useRawFormat": true,
             "class": "DepictionMarkdownView"
         }
