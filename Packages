@@ -1,0 +1,29 @@
+Package: com.alexpng.alexpngtest1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: com.alexpng.alexpngtest2
+Filename: ./debs/com.alexpng.alexpngtest1_1.0_iphoneos-arm.deb
+Size: 600
+MD5sum: e910058f628d49219d7552a6187a6dfe
+SHA1: 5869977ad27ea5b1d986d400d0361ddb05e93873
+SHA256: 3009724d93767b4429bb2f6a337e4d6da3a57ffe5852db0db37638b03439cc5d
+Section: Tweaks
+Description: test deb don’t install
+Author: alex_png <alex.png.cc@gmail.com>
+Name: test deb don’t install
+
+Package: com.alexpng.alexpngtest2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Pre-Depends: com.alexpng.alexpngtest1
+Filename: ./debs/com.alexpng.alexpngtest2_1.0_iphoneos-arm.deb
+Size: 602
+MD5sum: f19c3e0a340b60c545f617d623c32ab2
+SHA1: 0d79923d54242b5a24e8d4aad7ca37afc8050c2b
+SHA256: 072e0f0e25340c06fefa74599871ece13846e33c88c8fb420a3aa261492a8d6d
+Section: Tweaks
+Description: test deb don’t install
+Author: alex_png <alex.png.cc@gmail.com>
+Name: test deb don’t install 2
