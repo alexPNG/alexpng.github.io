@@ -18,11 +18,6 @@
 "screenshots":[
 {
               "accessibilityText": "Screenshot",
-              "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/gifs/teaser.gif?size=480",
-              "fullSizeURL": "https://raw.githubusercontent.com/alexPNG/alexpng.github.io/master/depictions/com.alexpng.darkpapers/gifs/teaser.gif"
-            },
-            {
-              "accessibilityText": "Screenshot",
               "url": "https://github.com/alexPNG/alexpng.github.io/depictions/com.alexpng.darkpapers/screenshots/1.png?size=480",
               "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.alexpng.darkpapers/screenshots/1.png"
             },
