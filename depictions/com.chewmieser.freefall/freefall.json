@@ -1,0 +1,128 @@
+{
+"minVersion":"0.1",
+"headerImage":"",
+"tintColor":"#7887f7",
+"tabs":[
+{
+"tabname":"Details",
+"views":[
+{
+"title":"Now your phone can scream when you drop it!",
+"useBoldText":true,
+"useBottomMargin":false,
+"class":"DepictionSubheaderView"
+},
+{
+"itemCornerRadius":6,
+"itemSize":"{160, 346.4533333333333}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.chewmieser.freefall/screenshots/1.png?size=480",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions com.chewmieser.freefall/screenshots/1.png"
+}
+],
+"ipad":{"itemCornerRadius":9,
+"itemSize":"{320, 692.9066666666666}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.chewmieser.freefall/screenshots/1.png?size=640",
+              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.chewmieser.freefall/screenshots/1.png"
+}
+],
+"class":"DepictionScreenshotView"
+},
+"class":"DepictionScreenshotsView"
+},
+{
+"markdown":"###FreeFall is a must have tweak for a good laugh\n\nIt makes your device scream when it's dropped... Or yell at you after the drop.\n\n###Customize it your way\n\nYou can set your own custom sounds or change the volume of the sounds! The phone won’t scream when your device is set to silent, so no worries.",
+"useSpacing":true,
+"class":"DepictionMarkdownView"
+},
+{"class":"DepictionSeparatorView"
+},
+{
+"title":"Latest Version",
+"class":"DepictionHeaderView"
+},
+{
+"title":"Version",
+"text":"2.0",
+"class":"DepictionTableTextView"
+},
+{"title":"Released",
+"text":"2020-04-02",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Price",
+"text":"Free",
+"class":"DepictionTableTextView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Repository Website",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Developer",
+"text":"Steven Rolfe",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Contact & Support",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">FreeFall, a tweak to make you laugh</small><style>body { text-align: center; }</style>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"URL":"https://github.com/alexPNG/alexpng.github.io/depictions/com.chewmieser.freefall/sileoicon2.png",
+"width":44,
+"height":27,
+"alignment":1,
+"cornerRadius":0,
+"class":"DepictionImageView"
+},
+{
+"spacing":20,
+"class":"DepictionSpacerView"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Changelog","views":[
+{
+"title":"Version 2.0",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Added support for A12/A13 devices and iOS 13.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-04-02</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
