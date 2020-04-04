@@ -48,11 +48,11 @@
 },
 {
 "title":"Version",
-"text":"2.0",
+"text":"2.1",
 "class":"DepictionTableTextView"
 },
-{"title":"Released",
-"text":"2020-04-02",
+{"title":"Updated",
+"text":"2020-04-04",
 "class":"DepictionTableTextView"
 },
 {
@@ -104,6 +104,25 @@
 },
 {
 "tabname":"Changelog","views":[
+{
+"title":"Version 2.1",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Added a toggle in the preferences settings to enable and disable the tweak.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-04-04</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSeparatorView"
+},
 {
 "title":"Version 2.0",
 "useBoldText":true,
