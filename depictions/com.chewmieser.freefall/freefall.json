@@ -48,11 +48,11 @@
 },
 {
 "title":"Version",
-"text":"2.1",
+"text":"2.1.1",
 "class":"DepictionTableTextView"
 },
 {"title":"Updated",
-"text":"2020-04-04",
+"text":"2020-04-05",
 "class":"DepictionTableTextView"
 },
 {
@@ -74,6 +74,11 @@
 },
 {
 "title":"Developer",
+"text":"alex_png",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Creator",
 "text":"Steven Rolfe",
 "class":"DepictionTableTextView"
 },
@@ -104,6 +109,25 @@
 },
 {
 "tabname":"Changelog","views":[
+{
+"title":"Version 2.1.1",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Fixed toggle not working for arm64e devices.\n\nRemoved broken ringer switch from preferences.\n\nRevamped the preferences bundle.\n\nFixed Sileo download error.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-04-04</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSeparatorView"
+},
 {
 "title":"Version 2.1",
 "useBoldText":true,
