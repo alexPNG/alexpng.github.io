@@ -1,0 +1,268 @@
+Package: com.alexpng.darkpapers
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: firmware (>= 13.0), wallpaperloader, com.alexpng.darkpaperspack1, com.alexpng.darkpaperspack2, com.alexpng.darkpaperspack3, com.alexpng.darkpaperspack4, com.alexpng.darkpaperspack5, com.alexpng.darkpaperspack6, com.alexpng.darkpaperspack7, com.alexpng.darkpaperspack8, com.alexpng.darkpaperspack9, com.alexpng.darkpaperspack10
+Filename: ./debs/com.alexpng.darkpapers_1.0.1_iphoneos-arm.deb
+Size: 21026974
+MD5sum: 85e5d8933f3c8e84258dd06d33045d4d
+SHA1: 5978a060eb382c8d8873cdbc7491c866b2a7c783
+SHA256: b8e7faec6772dc99de28fe01ec90b8fcfcbe98d180c9af74f0573f1f5b97898f
+Section: Tweaks
+Description: Day/Night wallpapers your way in the native iOS 13 dark mode. Comes with over 50 OLED friendly and Full HD wallpapers that work with the native appearance aware feature. No settings required, simply install and select from the wallpaper section in the settings app.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpapers/DebIcon.png
+Name: DarkPapers
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpapers/darkpapers.json
+
+Package: com.alexpng.darkpaperspack1
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack1_1.0.0_iphoneos-arm.deb
+Size: 22005584
+MD5sum: bfc102fd997c68a97ff1a833b12175ee
+SHA1: dac74001e8ce22a110a33be00f2e122c0d708a19
+SHA256: 5d719b7581bbd988da60036157f8ac96f0c07c29d468f3331aa0fa6796374a39
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack1/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack1/DebIcon.png
+Name: DarkPapers Pack 1
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack1/darkpaperspack1.json
+
+Package: com.alexpng.darkpaperspack2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack2_1.0.0_iphoneos-arm.deb
+Size: 21039912
+MD5sum: d0a3ae0218951ff3b7a9c9314046c8a1
+SHA1: 70e947cecf18cd0e5444f1e7c9ac448d5ed55288
+SHA256: 9d918d00d093170995c64a8898351fab50f9d8418a47aabc0c7ec3976ad2aab7
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack2/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack2/DebIcon.png
+Name: DarkPapers Pack 2
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack2/darkpaperspack2.json
+
+Package: com.alexpng.darkpaperspack3
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack3_1.0.0_iphoneos-arm.deb
+Size: 22996048
+MD5sum: acae5b8bd841a5f7728f0ed87bbbd41d
+SHA1: b5ffa42d41641d100be3bf191dbf4acb7640982a
+SHA256: 312943eca32e95bf871ca16d0a524c0165ab774ebf45669d60733878daa7364d
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack3/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack3/DebIcon.png
+Name: DarkPapers Pack 3
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack3/darkpaperspack3.json
+
+Package: com.alexpng.darkpaperspack4
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack4_1.0.0_iphoneos-arm.deb
+Size: 21458166
+MD5sum: 7969d53b92001274d415692acf071d5c
+SHA1: c2f990405742648732ef1838c40da01a02a95261
+SHA256: 2edde8cbf6c45d0619d3ab4393e706fb2b611cd1fd4a6d3fe961400691fc93a0
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack4/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack4/DebIcon.png
+Name: DarkPapers Pack 4
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack4/darkpaperspack4.json
+
+Package: com.alexpng.darkpaperspack5
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack5_1.0.0_iphoneos-arm.deb
+Size: 21990902
+MD5sum: 7c98c260365d356d5142fc49584ad1ea
+SHA1: 9ab810ab97f0548d93abe89c041b53f1f90a8be5
+SHA256: b53560c721a19ac0b5d917d766fb05aa44fac2437330bf7f96b6695a274cbc35
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack5/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack5/DebIcon.png
+Name: DarkPapers Pack 5
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack5/darkpaperspack5.json
+
+Package: com.alexpng.darkpaperspack6
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack6_1.0.0_iphoneos-arm.deb
+Size: 22426328
+MD5sum: 6e817cd54e27559c338da6056fb9d439
+SHA1: b7022eb7351e02743930c5f607e29fc975bb561c
+SHA256: c8851136337a14f505f2024c0c8aeb37e6194282f95f34c65b87ac61447b6327
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack6/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack6/DebIcon.png
+Name: DarkPapers Pack 6
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack6/darkpaperspack6.json
+
+Package: com.alexpng.darkpaperspack7
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack7_1.0.0_iphoneos-arm.deb
+Size: 21000562
+MD5sum: ff5c457d83d213cde5bc2397ef462224
+SHA1: c9f83c349470a57e90a1b23edd97d1cd4671f057
+SHA256: 4c52b230570d489a9aa2b996e5b31d5b2c38ebecec3a570857b41db607e238dd
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack7/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack7/DebIcon.png
+Name: DarkPapers Pack 7
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack7/darkpaperspack7.json
+
+Package: com.alexpng.darkpaperspack8
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack8_1.0.0_iphoneos-arm.deb
+Size: 19405542
+MD5sum: d68cce6c31ed82a909636b9fb691a5aa
+SHA1: 948df9d09db36bd109bd4f3ef6648abd607bda60
+SHA256: a19c0bd824b8068c6b0caf9cd508dec0e344d73874063a3de78a466ed648aa42
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack8/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack8/DebIcon.png
+Name: DarkPapers Pack 8
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack8/darkpaperspack8.json
+
+Package: com.alexpng.darkpaperspack9
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack9_1.0.0_iphoneos-arm.deb
+Size: 19947406
+MD5sum: c6bf6cf248ab0a47cbb918adf826382d
+SHA1: e5ee7ab5f678b18bd45ecdfbb012e45f2258e2a0
+SHA256: e0482e47d697a4fad7c94b372cf236b3f1fe4efec29146a67bc6bef4b350f377
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack9/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack9/DebIcon.png
+Name: DarkPapers Pack 9
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack9/darkpaperspack9.json
+
+Package: com.alexpng.darkpaperspack10
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: wallpaperloader
+Filename: ./debs/com.alexpng.darkpaperspack10_1.0.0_iphoneos-arm.deb
+Size: 20029510
+MD5sum: 7ee5088b4dd4c2a470c8aea66149d268
+SHA1: 5b5fa91df13817ea5b04dafe39dab376d595d503
+SHA256: fa48534da80e74dcdf5c42a9cce316aef6497c764ef9863fef01138583a2510f
+Section: Wallpaper
+Description: This is an essential pack for the tweak DarkPapers. It can be installed without DarkPapers in case you don’t want the all-in-on package.
+Author: alex_png <alex.png.cc@gmail.com>
+Depiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack10/
+Icon: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack10/DebIcon.png
+Name: DarkPapers Pack 10
+SileoDepiction: https://alexpng.github.io/depictions/com.alexpng.darkpaperspack10/darkpaperspack10.json
+
+Package: me.nepeta.begonecia-11
+Version: 0.3.1
+Architecture: iphoneos-arm
+Maintainer: Nepeta <ominousness@protonmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/me.nepeta.begonecia-11_0.3.1_iphoneos-arm.deb
+Size: 82582
+MD5sum: 9d8c13d3a24bb32905134a895f9ac68c
+SHA1: fb410ddc5f73075af668e4ca4da5b3da145a9b36
+SHA256: cbafc5f61a4103ca9e98a328c24b6249c88af324326abe3c1e33e99eeef4f507
+Installed-Size: 604
+Section: Tweaks
+Description: CC toggle to disable microphone, camera and GPS.
+Author: Nepeta <ominousness@protonmail.com>
+Name: BegoneCIA (iOS 11, 12 and 13)
+
+Package: com.chewmieser.freefall
+Name: FreeFall
+Depends: mobilesubstrate
+Filename: ./debs/com.chewmieser.freefall_2.0_iphoneos-arm.deb
+MD5sum: 92835e05b519a5c9a6351995e89eb3e9
+SHA1: b98f419b45ff18f6c1d7e599b06216ab4aac931b
+SHA256: ec59fe5105d044898cc64ecb175df637b07ff350e4ec012b5524eb3fde04647e
+Architecture: iphoneos-arm
+Description: Phone screams when dropped!
+Maintainer: Steven Rolfe
+Author: Steven Rolfe
+Section: Tweaks
+Depiction: https://alexpng.github.io/depictions/com.chewmieser.freefall/
+Icon: https://alexpng.github.io/depictions/com.chewmieser.freefall/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.chewmieser.freefall/freefall.json
+Version: 2.0
+
+Package: com.chewmieser.freefall
+Name: FreeFall
+Depends: mobilesubstrate
+Filename: ./debs/com.chewmieser.freefall_2.1.1_iphoneos-arm.deb
+MD5sum: 04b54ac961092d5cd74350131fc2d6a5
+SHA1: 3dfaa502d75e726d518a40756f7d1c56ffb5caec
+SHA256: 04fe1484150291cc92967364e0aa99cefbb1ebd2ce9b9c736f8715c63193b07e
+Architecture: iphoneos-arm
+Description: Phone screams when dropped!
+Maintainer: Steven Rolfe
+Author: Steven Rolfe
+Section: Tweaks
+Depiction: https://alexpng.github.io/depictions/com.chewmieser.freefall/
+Icon: https://alexpng.github.io/depictions/com.chewmieser.freefall/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/com.chewmieser.freefall/freefall.json
+Version: 2.1.1
+Size: 813378
+
+Package: me.nepeta.begonecia-11
+Version: 0.3.2
+Architecture: iphoneos-arm
+Maintainer: alex_png <alex.png.cc@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/me.nepeta.begonecia-11_0.3.2_iphoneos-arm.deb
+Size: 82724
+MD5sum: c2877c395d7a7858548878e8fc883eb2
+SHA1: 3e374a66889dc7af7ed08278272ba558618591aa
+SHA256: 257ba711971074a7477004cf7e9f42cc0df4aadf9a71241a7c4c6ebe60b16605
+Section: Tweaks
+Description: CC toggle to disable microphone, camera and GPS.
+Author: Nepeta <ominousness@protonmail.com>
+Depiction: https://alexpng.github.io/depictions/me.nepeta.begonecia-11/
+Icon: https://alexpng.github.io/depictions/me.nepeta.begonecia-11/DebIcon.png
+SileoDepiction: https://alexpng.github.io/depictions/me.nepeta.begonecia-11/begonecia-11.json
+Name: BegoneCIA (iOS 11, 12 and 13)
