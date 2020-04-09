@@ -1,0 +1,196 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://alexpng.github.io/depictions/me.nepeta.begonecia-11/banner.png?size=1000",
+"tintColor":"#7887f7",
+"tabs":[
+{
+"tabname":"Details",
+"views":[
+{
+"title":"Privacy at your fingertips.",
+"useBoldText":true,
+"useBottomMargin":false,
+"class":"DepictionSubheaderView"
+},
+{
+"itemCornerRadius":6,
+"itemSize":"{160, 346.4533333333333}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/1.jpeg?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/1.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/2.jpeg?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/2.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/3.jpeg?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/3.jpeg"
+}
+],
+"ipad":{"itemCornerRadius":9,
+"itemSize":"{320, 692.9066666666666}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/1.jpeg?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/1.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/2.jpeg?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/2.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/3.jpeg?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/me.nepeta.begonecia-11/screenshots/3.jpeg"
+}
+],
+"class":"DepictionScreenshotView"
+},
+"class":"DepictionScreenshotsView"
+},
+{
+"markdown":"###Control Your Privacy\n\nBegoneCIA lets you control your privacy by giving you a CC toggle to enable or disable your microphone, camera and GPS.\n\n###Customize It Your Way\n\nYou can choose which apps you to block with BegoneCIA and which apps not to, easily select the desired applications from the preference pane in the settings of BegoneCIA.\n\n###Known Issues\n\nThe microphone might still work in certain applications. I may or may not work on that issue since I didn’t intend on maintaining BegoneCIA besides updating it for arm64e devices and iOS 13. This tweak belongs to NepetaDev, I simply updated it for other devices and iOS 13.\n\n###iOS 9 and 10\n\nFor devices on iOS 9 and 10.x, please download BegoneCIA iOS 10 and 9 from Nepeta’s mirror repository I’ve created. You can visit and add it to your package manager at: [alexpng.github.io/Nepeta-Mirror](https://alexpng.github.io/Nepeta-Mirror) the link is case sensitive, be sure to use the exact link provided or click on it to add the repository to your package manager.",
+"useSpacing":true,
+"class":"DepictionMarkdownView"
+},
+{"class":"DepictionSeparatorView"
+},
+{
+"title":"Latest Version",
+"class":"DepictionHeaderView"
+},
+{
+"title":"Version",
+"text":"0.3.2",
+"class":"DepictionTableTextView"
+},
+{"title":"Updated",
+"text":"2020-04-08",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Price",
+"text":"Free",
+"class":"DepictionTableTextView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Repository Website",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Developer",
+"text":"alex_png",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Creator",
+"text":"NepetaDev",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Twitter",
+"action":"https://twitter.com/its_alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"Reddit",
+"action":"https://reddit.com/user/alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"E-mail",
+"action":"mailto:alex.png.cc@gmail.com",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"GitHub",
+"action":"https://github.com/alexPNG",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Support My Work",
+"action":"https://paypal.me/devalexpng",
+"class":"DepictionTableTextView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">BegoneCIA, brought to you by alex_png</small><style>body { text-align: center; }</style>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"URL":"",
+"width":44,
+"height":27,
+"alignment":1,
+"cornerRadius":0,
+"class":"DepictionImageView"
+},
+{
+"spacing":20,
+"class":"DepictionSpacerView"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Changelog","views":[
+{
+"title":"Version 0.3.2",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Added depictions for Cydia, Zebra, Sileo and Installer.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Update 2020-04-08</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Version 0.3.1",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Added support for arm64e devices and iOS 13.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated Release 2020-04-02</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}

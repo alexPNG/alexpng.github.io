@@ -1,6 +1,6 @@
 {
 "minVersion":"0.1",
-"headerImage":"",
+"headerImage":"https://alexpng.github.io/depictions/com.chewmieser.freefall/banner.png?size=1000",
 "tintColor":"#7887f7",
 "tabs":[
 {
@@ -18,8 +18,18 @@
 "screenshots":[
 {
               "accessibilityText": "Screenshot",
-              "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.chewmieser.freefall/screenshots/1.png?size=480",
-              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions com.chewmieser.freefall/screenshots/1.png"
+              "url": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/1.jpeg?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/1.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/2.jpeg?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/2.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/3.jpeg?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/3.jpeg"
 }
 ],
 "ipad":{"itemCornerRadius":9,
@@ -27,8 +37,18 @@
 "screenshots":[
 {
               "accessibilityText": "Screenshot",
-              "url": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.chewmieser.freefall/screenshots/1.png?size=640",
-              "fullSizeURL": "https://github.com/alexPNG/alexpng.github.io/tree/master/depictions/com.chewmieser.freefall/screenshots/1.png"
+              "url": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/1.jpeg?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/1.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/2.jpeg?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/2.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/3.jpeg?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.chewmieser.freefall/screenshots/3.jpeg"
 }
 ],
 "class":"DepictionScreenshotView"
@@ -83,17 +103,41 @@
 "class":"DepictionTableTextView"
 },
 {
-"title":"Contact & Support",
-"action":"https://alexpng.github.io",
+"title":"Twitter",
+"action":"https://twitter.com/its_alex_png",
 "class":"DepictionTableButtonView"
 },
 {
-"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">FreeFall, a tweak to make you laugh</small><style>body { text-align: center; }</style>",
+"title":"Reddit",
+"action":"https://reddit.com/user/alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"E-mail",
+"action":"mailto:alex.png.cc@gmail.com",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"GitHub",
+"action":"https://github.com/alexPNG",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Support My Work",
+"action":"https://paypal.me/devalexpng",
+"class":"DepictionTableTextView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">FreeFall, brought to you by alex_png</small><style>body { text-align: center; }</style>",
 "useRawFormat":true,
 "class":"DepictionMarkdownView"
 },
 {
-"URL":"https://github.com/alexPNG/alexpng.github.io/depictions/com.chewmieser.freefall/sileoicon2.png",
+"URL":"",
 "width":44,
 "height":27,
 "alignment":1,
@@ -159,7 +203,7 @@
 "class":"DepictionMarkdownView"
 },
 {
-"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-04-02</small>",
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated Release 2020-04-02</small>",
 "useRawFormat":true,
 "class":"DepictionMarkdownView"
 }

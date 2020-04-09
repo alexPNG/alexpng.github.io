@@ -1,0 +1,202 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://alexpng.github.io/depictions/com.alexpng.fortunecookie/banner.png?size=1000",
+"tintColor":"#7887f7",
+"tabs":[
+{
+"tabname":"Details",
+"views":[
+{
+"title":"Shake your device to get a fortune cookie!",
+"useBoldText":true,
+"useBottomMargin":false,
+"class":"DepictionSubheaderView"
+},
+{
+"itemCornerRadius":6,
+"itemSize":"{160, 346.4533333333333}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/1.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/2.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/3.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/4.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/5.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/6.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/6.png"
+}
+],
+"ipad":{"itemCornerRadius":9,
+"itemSize":"{320, 692.9066666666666}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/1.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/2.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/3.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/4.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/5.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/6.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.fortunecookie/screenshots/6.png"
+}
+],
+"class":"DepictionScreenshotView"
+},
+"class":"DepictionScreenshotsView"
+},
+{
+"markdown":"###Just Have Some Fun\n\nFortuneCookie sends an alert with a random fortune from the cookie whenever you shake your device. Don’t forget to enable FortuneCookie in the settings though.\n\n###Good Luck Getting a Good Fortune\n\n There are over 200 hundred different fortunes in the cookies. They get randomized, so you may get the same fortune more than once or you may get several different fortunes.\n\n###Don’t Take It Too Seriously\n\nFortuneCookie has several different fortunes, some are inspirational and uplifting, while others are dark and insulting. There’s also a few references there, see if you can get them.\n\n###Why Make This Tweak\n\nThis wasn’t meant to be released as a tweak. In fact, this was merely a secondary project to test some features for other upcoming projects, but since I found it so damn funny, I decided to release it to the public.",
+"useSpacing":true,
+"class":"DepictionMarkdownView"
+},
+{"class":"DepictionSeparatorView"
+},
+{
+"title":"Latest Version",
+"class":"DepictionHeaderView"
+},
+{
+"title":"Version",
+"text":"1.0",
+"class":"DepictionTableTextView"
+},
+{"title":"Released",
+"text":"2020-04-09",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Price",
+"text":"Free",
+"class":"DepictionTableTextView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Repository Website",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Developer",
+"text":"alex_png",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Twitter",
+"action":"https://twitter.com/its_alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"Reddit",
+"action":"https://reddit.com/user/alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"E-mail",
+"action":"mailto:alex.png.cc@gmail.com",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"GitHub",
+"action":"https://github.com/alexPNG",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Support My Work",
+"action":"https://paypal.me/devalexpng",
+"class":"DepictionTableTextView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">FortuneCookie, brought to you by alex_png</small><style>body { text-align: center; }</style>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"URL":"",
+"width":44,
+"height":27,
+"alignment":1,
+"cornerRadius":0,
+"class":"DepictionImageView"
+},
+{
+"spacing":20,
+"class":"DepictionSpacerView"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Changelog","views":[
+{
+"title":"Version 1.0",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Initial Release.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2020-04-09</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
