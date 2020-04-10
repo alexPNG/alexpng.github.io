@@ -1,0 +1,262 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://alexpng.github.io/depictions/com.alexpng.shake2toggle/banner.png?size=1000",
+"tintColor":"#7887f7",
+"tabs":[
+{
+"tabname":"Details",
+"views":[
+{
+"title":"Control your device with shakes.",
+"useBoldText":true,
+"useBottomMargin":false,
+"class":"DepictionSubheaderView"
+},
+{
+"itemCornerRadius":6,
+"itemSize":"{160, 346.4533333333333}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/1.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/2.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/3.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/4.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/5.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/6.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/6.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/7.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/7.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/8.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/8.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/9.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/9.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/10.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/10.png"
+}
+],
+"ipad":{"itemCornerRadius":9,
+"itemSize":"{320, 692.9066666666666}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/1.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/2.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/3.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/4.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/5.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/5.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/6.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/6.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/7.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/7.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/8.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/8.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/9.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/9.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/10.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.shake2toggle/screenshots/10.png"
+}
+],
+"class":"DepictionScreenshotView"
+},
+"class":"DepictionScreenshotsView"
+},
+{
+"markdown":"###Your Device, Your Control\n\nShake2Toggle lets you use your device's shake detection for far more things. With Shake2Toggle you can decide what to have your device do for you when you shake it.\n\n###Your Desired Actions\n\nWith some available options, you can choose from a variety of actions to be performed when you shake your device. Shake2Toggle lets you:
+\n\nShake to Shuffle (currently only available for Apple Music);
+\n\nShake to Repeat (currently only available for Apple Music);
+\n\nShake to Like Songs (currently only available for Apple Music);
+\n\nShake to Skip to the Next Song/Video;
+\n\nShake to Open an Application;
+\n\nShake to Toggle Dark Mode on/off (iOS 13 only);
+\n\nShake to Toggle Night Shift;
+\n\nShake to Toggle Flashlight on/off;
+\n\nShake to Lock Device;
+\n\nShake to Take a Screenshot;
+\n\nShake to Toggle Portrait Mode on/off;
+\n\nShake to Toggle Low Power Mode on/off;
+\n\nShake to Toggle Do Not Disturb on/off;
+\n\nShake to Toggle Flashlight on/off;
+\n\nShake to Respring (Option from the Power Menu alert that will pop-up to avoid unhappy accidents);
+\n\nShake to Enter Safemode (Option from the Power Menu alert that will pop-up to avoid unhappy accidents);
+\n\nShake to Run UICache (Option from the Power Menu alert that will pop-up to avoid unhappy accidents);
+\n\nShake to Shutdown (Option from the Power Menu alert that will pop-up to avoid unhappy accidents).
+\n\n###Easy Without Any Hassles\n\nShake2Toggle has a very detailed explanation of each option in the preferences panel. This way you can better understand what each option does, with no hassle of trying beforehand. It's as easy as the press of a button. Quite literally. All you have to do is select your desired option(s) in the settings of Shake2Toggle and you're good to shake! With Shake2Toggle you don't even need to respring your device whenever you want to turn an option on/off. Simply toggle your desired option on/off and no need to worry about anything else.
+\n\n###Shake Or Twist\n\nShake2Toggle works by detecting any shakes, however, you can easily only give your device a good twist with your wrist and it'll detect it as a shake too. No need to shake your device into oblivion, an easy shake will do it.",
+"useSpacing":true,
+"class":"DepictionMarkdownView"
+},
+{"class":"DepictionSeparatorView"
+},
+{
+"title":"Latest Version",
+"class":"DepictionHeaderView"
+},
+{
+"title":"Version",
+"text":"1.0",
+"class":"DepictionTableTextView"
+},
+{"title":"Released",
+"text":"2020-04-10",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Price",
+"text":"Free",
+"class":"DepictionTableTextView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Repository Website",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Developer",
+"text":"alex_png",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Twitter",
+"action":"https://twitter.com/its_alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"Reddit",
+"action":"https://reddit.com/user/alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"E-mail",
+"action":"mailto:alex.png.cc@gmail.com",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"GitHub",
+"action":"https://github.com/alexPNG",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Support My Work",
+"action":"https://paypal.me/devalexpng",
+"class":"DepictionTableTextView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">Shake2Toggle, brought to you by alex_png</small><style>body { text-align: center; }</style>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"URL":"",
+"width":44,
+"height":27,
+"alignment":1,
+"cornerRadius":0,
+"class":"DepictionImageView"
+},
+{
+"spacing":20,
+"class":"DepictionSpacerView"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Changelog","views":[
+{
+"title":"Version 1.0",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Initial Release.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2020-04-10</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
