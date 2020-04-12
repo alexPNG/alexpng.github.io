@@ -1,0 +1,199 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/banner.png?size=1000",
+"tintColor":"#7887f7",
+"tabs":[
+{
+"tabname":"Details",
+"views":[
+{
+"title":"Clear application's cache in the storage settings or by 3D-Touching/Force Touching an application's icon.",
+"useBoldText":true,
+"useBottomMargin":false,
+"class":"DepictionSubheaderView"
+},
+{
+"itemCornerRadius":6,
+"itemSize":"{160, 346.4533333333333}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/1.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/2.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/3.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/4.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/5.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/5.png"
+}
+],
+"ipad":{"itemCornerRadius":9,
+"itemSize":"{320, 692.9066666666666}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/1.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/2.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/3.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/3.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/4.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/4.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/5.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.cacheclearerx/screenshots/5.png"
+}
+],
+"class":"DepictionScreenshotView"
+},
+"class":"DepictionScreenshotsView"
+},
+{
+"markdown":"###Modern Succession\n\nCacheClearerX is the modern successor of CacheClearer, originally created by Ryan Petrich and modified by julioverne.\n\n###Still Functioning\n\nCacheClearerX still has the original feature, which adds two buttons in the storage settings. Simply select an application and you'll see two options: Clear Cache and Reset App.
+\n\n###More Practical Than Ever\n\nCacheClearerX now has a new feature. Easily clear an application's cache simply by 3D-Touching/Force Touching the application's icon in your homescreen.
+\n\nYou can also disable this implementation or it's haptic feedback and/or alert in the preferences pane.",
+"useSpacing":true,
+"class":"DepictionMarkdownView"
+},
+{"class":"DepictionSeparatorView"
+},
+{
+"title":"Latest Version",
+"class":"DepictionHeaderView"
+},
+{
+"title":"Version",
+"text":"1.0",
+"class":"DepictionTableTextView"
+},
+{"title":"Released",
+"text":"2020-04-12",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Price",
+"text":"Free",
+"class":"DepictionTableTextView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Repository Website",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Developer",
+"text":"alex_png",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Creator",
+"text":"Ryan Petrich",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Twitter",
+"action":"https://twitter.com/its_alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"Reddit",
+"action":"https://reddit.com/user/alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"E-mail",
+"action":"mailto:alex.png.cc@gmail.com",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"GitHub",
+"action":"https://github.com/alexPNG",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Support My Work",
+"action":"https://paypal.me/devalexpng",
+"class":"DepictionTableTextView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">CacheClearerX, brought to you by alex_png</small><style>body { text-align: center; }</style>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"URL":"",
+"width":44,
+"height":27,
+"alignment":1,
+"cornerRadius":0,
+"class":"DepictionImageView"
+},
+{
+"spacing":20,
+"class":"DepictionSpacerView"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Changelog","views":[
+{
+"title":"Version 1.0",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Initial Release.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2020-04-12</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
