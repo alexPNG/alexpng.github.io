@@ -90,10 +90,10 @@
 },
 {
 "title":"Version",
-"text":"1.0",
+"text":"1.1",
 "class":"DepictionTableTextView"
 },
-{"title":"Released",
+{"title":"Updated",
 "text":"2020-04-12",
 "class":"DepictionTableTextView"
 },
@@ -175,6 +175,25 @@
 },
 {
 "tabname":"Changelog","views":[
+{
+"title":"Version 1.1",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Fixed 3D Touch shortcut not appearing to some devices and fixed conflicts with other tweaks that also use shortcuts.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-04-12</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSeparatorView"
+},
 {
 "title":"Version 1.0",
 "useBoldText":true,
