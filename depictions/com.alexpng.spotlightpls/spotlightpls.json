@@ -1,0 +1,188 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://alexpng.github.io/depictions/com.alexpng.spotlightpls/banner.png?size=1000",
+"tintColor":"#7887f7",
+"tabs":[
+{
+"tabname":"Details",
+"views":[
+{
+"title":"Invoke Spotlight Search from anywhere with gestures and triggers.",
+"useBoldText":true,
+"useBottomMargin":false,
+"class":"DepictionSubheaderView"
+},
+{
+"itemCornerRadius":6,
+"itemSize":"{160, 346.4533333333333}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/1.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/2.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/3.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/3.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/4.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/4.png"
+}
+],
+"ipad":{"itemCornerRadius":9,
+"itemSize":"{320, 692.9066666666666}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/1.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/2.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/3.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/3.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/4.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.spotlightpls/screenshots/4.png"
+}
+],
+"class":"DepictionScreenshotView"
+},
+"class":"DepictionScreenshotsView"
+},
+{
+"markdown":"###Easier Than Ever\n\nSpotlightPls let’s you open/invoke Spotlight Search from anywhere by performing a gesture or a trigger. You can invoke Spotlight Search from within any app or webpage, no need to go back to the homescreen to open it, anymore.\n\n###Your Preferred Choice\n\nWith SpotlightPls you can choose which gesture(s) or trigger(s) you’d like to set in order to invoke Spotlight Search.\n\nThe following gestures/triggers are available for choosing:
+\n\nSwipe Right on the status bar;
+\n\nSwipe Left on the status bar;
+\n\nLong Press on the status bar;
+\n\nSwipe Down with 2 Fingers on the status bar;
+\n\nShake Device.
+\n\n###Real-time Responsiveness\n\n SpotlightPls has a real-time action, no delays to invoke Spotlight Search when performing a gesture/trigger.\n\n Enjoy the Haptic Feedback that SpotlightPls integrates with the gestures and triggers. You can fully disable Haptic Feedback in case it’s not your style.",
+"useSpacing":true,
+"class":"DepictionMarkdownView"
+},
+{"class":"DepictionSeparatorView"
+},
+{
+"title":"Latest Version",
+"class":"DepictionHeaderView"
+},
+{
+"title":"Version",
+"text":"1.0",
+"class":"DepictionTableTextView"
+},
+{"title":"Released",
+"text":"2020-04-15",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Price",
+"text":"Free",
+"class":"DepictionTableTextView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Repository Website",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Developer",
+"text":"alex_png",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Twitter",
+"action":"https://twitter.com/its_alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"Reddit",
+"action":"https://reddit.com/user/alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"E-mail",
+"action":"mailto:alex.png.cc@gmail.com",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"GitHub",
+"action":"https://github.com/alexPNG",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Support My Work",
+"action":"https://paypal.me/devalexpng",
+"class":"DepictionTableTextView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">SpotlightPls, brought to you by alex_png</small><style>body { text-align: center; }</style>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"URL":"",
+"width":44,
+"height":27,
+"alignment":1,
+"cornerRadius":0,
+"class":"DepictionImageView"
+},
+{
+"spacing":20,
+"class":"DepictionSpacerView"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Changelog","views":[
+{
+"title":"Version 1.0",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Initial Release.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2020-04-15</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
