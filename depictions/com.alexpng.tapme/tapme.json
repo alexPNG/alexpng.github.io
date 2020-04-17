@@ -91,7 +91,7 @@
 },
 {
 "title":"Version",
-"text":"1.1",
+"text":"1.2",
 "class":"DepictionTableTextView"
 },
 {"title":"Updated",
@@ -171,6 +171,25 @@
 },
 {
 "tabname":"Changelog","views":[
+{
+"title":"Version 1.2",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Fixed conflicts in iOS 13, causing a crash into Safe Mode due to other tweaks.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-04-17</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSeparatorView"
+},
 {
 "title":"Version 1.1",
 "useBoldText":true,
