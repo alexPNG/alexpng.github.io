@@ -91,10 +91,10 @@
 },
 {
 "title":"Version",
-"text":"1.0",
+"text":"1.1",
 "class":"DepictionTableTextView"
 },
-{"title":"Released",
+{"title":"Updated",
 "text":"2020-04-17",
 "class":"DepictionTableTextView"
 },
@@ -171,6 +171,25 @@
 },
 {
 "tabname":"Changelog","views":[
+{
+"title":"Version 1.1",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Added support for iOS 11 - 12. Not tested on iOS 10 and below.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-04-17</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSeparatorView"
+},
 {
 "title":"Version 1.0",
 "useBoldText":true,
