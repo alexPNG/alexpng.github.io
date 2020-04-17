@@ -1,0 +1,195 @@
+{
+"minVersion":"0.1",
+"headerImage":"https://alexpng.github.io/depictions/com.alexpng.tapme/banner.png?size=1000",
+"tintColor":"#7887f7",
+"tabs":[
+{
+"tabname":"Details",
+"views":[
+{
+"title":"Give sound to your icons and folders when you tap them!",
+"useBoldText":true,
+"useBottomMargin":false,
+"class":"DepictionSubheaderView"
+},
+{
+"itemCornerRadius":6,
+"itemSize":"{160, 346.4533333333333}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/1.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/2.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/3.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/3.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/4.png?size=480",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/4.png"
+}
+],
+"ipad":{"itemCornerRadius":9,
+"itemSize":"{320, 692.9066666666666}",
+"screenshots":[
+{
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/1.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/1.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/2.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/2.png"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/3.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/3.png"
+			},
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/4.png?size=640",
+              "fullSizeURL": "https://alexpng.github.io/depictions/com.alexpng.tapme/screenshots/4.png"
+}
+],
+"class":"DepictionScreenshotView"
+},
+"class":"DepictionScreenshotsView"
+},
+{
+"markdown":"###Make It Alive
+\n\nTapMe allows you to bring life to your icons and folders by giving them sound and haptic feedback when you tap them.
+\n\n###Funny Or Serious
+\n\nWith TapMe, you can select a sound from a variety of nearly 30 different sounds. You'll be able to pick one of the hilarious sounds, or something more natural and down-to-earth.
+\n\n###Quick And Easy
+\n\nWhen changing the sound or the haptic feedback, you don't even need to respring. It's as quick as that. Simply choose and that's it.
+\n\n###Customize It
+\n\nYou can even add up to 3 different custom sounds to TapMe! But that's not everything, you can also change the sound's haptic feedback between Light, Medium and Heavy. Or you can disable it entirely.
+\n\nTo add your own custom sounds to TapMe, you can either navigate to /Library/TapMe/TUTORIAL.txt and follow the instructions from there, or you can follow the instructions from below:
+\n\nCustom sounds must be .caf files (you can convert .mp3 and others to .caf);
+\n\nCustom sounds must be placed in /Library/TapMe/Sounds/;
+\n\nThey must be named exactly Custom1 / Custom2 / Custom3 and end in .caf (extension .caf);
+\n\nThe names are case sensitive, so be sure to leave them exactly as written above;
+\n\nAfter correctly placing them and naming them, go back to the preferences settings of TapMe and select one of your custom sounds in the list, which should appear as Custom Sound 1 or 2 or 3.",
+"useSpacing":true,
+"class":"DepictionMarkdownView"
+},
+{"class":"DepictionSeparatorView"
+},
+{
+"title":"Latest Version",
+"class":"DepictionHeaderView"
+},
+{
+"title":"Version",
+"text":"1.0",
+"class":"DepictionTableTextView"
+},
+{"title":"Released",
+"text":"2020-04-17",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Price",
+"text":"Free",
+"class":"DepictionTableTextView"
+},
+{
+"class":"DepictionSeparatorView"
+},
+{
+"title":"Repository Website",
+"action":"https://alexpng.github.io",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Developer",
+"text":"alex_png",
+"class":"DepictionTableTextView"
+},
+{
+"title":"Twitter",
+"action":"https://twitter.com/its_alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"Reddit",
+"action":"https://reddit.com/user/alex_png",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"E-mail",
+"action":"mailto:alex.png.cc@gmail.com",
+"class":"DepictionTableButtonView"
+},
+{
+"title":"GitHub",
+"action":"https://github.com/alexPNG",
+"class":"DepictionTableButtonView"
+},
+{
+"spacing":12,
+"class":"DepictionSpacerView"
+},
+{
+"title":"Support My Work",
+"action":"https://paypal.me/devalexpng",
+"class":"DepictionTableTextView"
+},
+{
+"markdown":"<small style=\"color: #aaa; font-size: 8pt;\">TapMe, brought to you by alex_png</small><style>body { text-align: center; }</style>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"URL":"",
+"width":44,
+"height":27,
+"alignment":1,
+"cornerRadius":0,
+"class":"DepictionImageView"
+},
+{
+"spacing":20,
+"class":"DepictionSpacerView"
+}
+],
+"class":"DepictionStackView"
+},
+{
+"tabname":"Changelog","views":[
+{
+"title":"Version 1.0",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"Initial Release.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Released 2020-04-17</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+}
+],
+"class":"DepictionStackView"
+}
+],
+"class":"DepictionTabView"
+}
