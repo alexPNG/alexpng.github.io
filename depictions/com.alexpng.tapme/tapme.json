@@ -91,11 +91,11 @@
 },
 {
 "title":"Version",
-"text":"1.2",
+"text":"1.3",
 "class":"DepictionTableTextView"
 },
 {"title":"Updated",
-"text":"2020-04-17",
+"text":"2020-05-28",
 "class":"DepictionTableTextView"
 },
 {
@@ -171,6 +171,25 @@
 },
 {
 "tabname":"Changelog","views":[
+{
+"title":"Version 1.3",
+"useBoldText":true,
+"useBottomMargin":true,
+"class":"DepictionSubheaderView"
+},
+{
+"markdown":"You can now preview the haptic feedback type and the sound in the settings of TapMe. Huge thanks to p0358.",
+"useSpacing":false,
+"class":"DepictionMarkdownView"
+},
+{
+"markdown":"<small style=\"color: #999; margin-top: -8px;\">Updated 2020-05-28</small>",
+"useRawFormat":true,
+"class":"DepictionMarkdownView"
+},
+{
+"class":"DepictionSeparatorView"
+},
 {
 "title":"Version 1.2",
 "useBoldText":true,
